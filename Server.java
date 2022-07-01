@@ -44,7 +44,7 @@ public class Server {
 			e.printStackTrace();
 		}
 	}
-	
+
 	// PSVM
 	public static void main(String[] args) {
 		twoWayServer();
