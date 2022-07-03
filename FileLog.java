@@ -27,7 +27,7 @@ public class FileLog {
 			e.printStackTrace();
 		}
 	}
-	
+
 	private String createdDate() {
 		Locale locale = new Locale("tr", "TR");
 		SimpleDateFormat dateFormat = new SimpleDateFormat("dd/MMMM/yyyy HH:mm:ss", locale);
